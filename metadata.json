@@ -1,0 +1,6 @@
+{
+  "name": "Odia Connect",
+  "description": "Mobile citizen platform for Odisha government services, culture, and citizen welfare with official and trustworthy design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
